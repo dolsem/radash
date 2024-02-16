@@ -1,5 +1,5 @@
 {
-  "name": "radash",
+  "name": "@dolsem/radash",
   "version": "11.0.0",
   "description": "Functional utility library - modern, simple, typed, powerful",
   "main": "dist/cjs/index.cjs",
@@ -15,7 +15,7 @@
     "dist"
   ],
   "repository": {
-    "url": "https://github.com/rayepps/radash"
+    "url": "https://github.com/dolsem/radash"
   },
   "author": "rayepps",
   "private": false,
